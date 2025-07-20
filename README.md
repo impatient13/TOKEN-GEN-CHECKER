@@ -1,6 +1,6 @@
 # Discord Token Generator & Checker
 
-A Python script that generates random Discord token strings and checks their validity via the Discord API. This tool is designed for **educational** and **testing** purposes only.
+A Python script that generates random Discord token and checks their validity via the Discord API. This tool is designed for **educational** and **testing** purposes only.
 
 ---
 
