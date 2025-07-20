@@ -1,2 +1,27 @@
-# TOKEN-GEN-CHECKER
-A simple Python script to generate and validate randomly constructed Discord tokens. This script simulates token generation and checks their validity using Discord's public API responses. It's intended for educational and testing purposes only.
+# Discord Token Generator & Checker
+
+A Python script that generates random Discord token-like strings and checks their validity via the Discord API. This tool is designed for **educational** and **testing** purposes only.
+
+---
+
+## 🚀 Features
+
+- 🔢 Generate a user-defined number of tokens
+- ✅ Automatically validate tokens using the Discord API
+- 🧠 Detect token status: valid, invalid, locked, or rate-limited
+- 🎨 Colored terminal output using `colorama`
+- 📝 Save valid tokens to `valid_token.txt`
+
+---
+
+## 📦 Requirements
+
+- Python 3.8+
+- Modules:
+  - `requests`
+  - `colorama`
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
