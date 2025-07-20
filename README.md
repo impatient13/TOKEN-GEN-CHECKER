@@ -14,6 +14,10 @@ A Python script that generates random Discord token and checks their validity vi
 
 ---
 
+## SCREEN:
+
+<img width="1735" height="804" alt="image" src="https://github.com/user-attachments/assets/fb1bc878-d428-44da-97ee-ecdcc2b2e172" />
+
 ## 📦 Requirements
 
 - Python 3.8+
